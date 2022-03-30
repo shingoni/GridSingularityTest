@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.{feature,features}",
+    "env":{
+        "url":"https://gridsingularity.com"
+    }
+}
